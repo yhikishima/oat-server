@@ -1,7 +1,6 @@
-# oatpp-starter [![Build Status](https://dev.azure.com/lganzzzo/lganzzzo/_apis/build/status/oatpp.oatpp-starter?branchName=master)](https://dev.azure.com/lganzzzo/lganzzzo/_build/latest?definitionId=10&branchName=master)
+# oatpp-server
 
-Starter project of oat++ (AKA oatpp) application. Based on oatpp Multithreaded (Simple) API.
-
+## Overview
 See more:
 
 - [Oat++ Website](https://oatpp.io/)
