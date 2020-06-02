@@ -20,7 +20,7 @@ public:
    *  Create ConnectionProvider component which listens on the port
    */
   OATPP_CREATE_COMPONENT(std::shared_ptr<oatpp::network::ServerConnectionProvider>, serverConnectionProvider)([] {
-    return oatpp::network::server::SimpleTCPConnectionProvider::createShared(8000);
+    return oatpp::network::server::SimpleTCPConnectionProvider::createShared(8080);
   }());
   
   /**
